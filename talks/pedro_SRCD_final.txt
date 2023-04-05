@@ -1,0 +1,2 @@
+In a related paper, Chagas and Parvizi present partial evidence in support of the theory that the parietal lobe (and the bilateral intraparietal sulcus in particular) is a neural locus involved in mathematical cognition.
+The paper addresses the question of whether IPL is involved in math cognition, posits that it is, but argues that a dual process interactionist account will account for the results more parsimoniously than a single network account like a maths network.
